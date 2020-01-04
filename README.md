@@ -1,2 +1,2 @@
-# csv-analyser
-A Python script to analyse and provide statistics on a csv file
+# File Analyser
+A Python package to analyse files and provide metrics on their contents.
